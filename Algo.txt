@@ -6,12 +6,9 @@
     4b. Pay at door
 5. Wait for delivery
 6. Greet delivery driver
-<<<<<<< HEAD
 7. See step 4b if necessaryy
 8. Thank the driver
 8a. Thank you page
-=======
-7. See step 4b if necessary
-8.Thank you page
-9. One more step
->>>>>>> featureBranch
+9. See step 4b if necessary
+10.Thank you page
+11. One more step
